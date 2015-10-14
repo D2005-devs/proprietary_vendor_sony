@@ -70,7 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8610-common/proprietary/lib/hw/sensors.msm8610.so:system/lib/hw/sensors.msm8610.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so:system/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:system/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so \
-    vendor/sony/msm8610-common/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/msm8610-common/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
     vendor/sony/msm8610-common/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/sony/msm8610-common/proprietary/lib/libbson.so:system/lib/libbson.so \
@@ -125,7 +124,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
-    vendor/sony/msm8610-common/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/sony/msm8610-common/proprietary/vendor/lib/libimage-jpeg-enc-omx-comp.so:system/vendor/lib/libimage-jpeg-enc-omx-comp.so \
